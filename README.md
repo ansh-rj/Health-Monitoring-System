@@ -1,1 +1,3 @@
 # Health-Monitoring-System
+Health Monitoring System is a stress detection AI integrated IOT based system which tracks real time data from the user using pulse sensor to measure heart rate and temperature sensor to measure body temperature. The data is then stored in an SD card module in CSV file format. This data is then imported in python environment where it is further transfformed into Datavrame processed for ML purposes.
+It uses basic classification algorithms like logestic regression and decision tree, the model is trained to distiguish if the person is in stress or not based on the data collected.
